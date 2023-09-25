@@ -1,1 +1,4 @@
-git clone/ngit add ./ngit commit -n/ngit push
+git clone 
+git push 
+git commit -m
+git git add .
